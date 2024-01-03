@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 8e67f3b1-df2c-4969-a268-7e2bd7856f4c
+name: mysite
+mail: shootersolutions@gmail.com
+slogan: 'my super special site'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
